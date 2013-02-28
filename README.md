@@ -7,6 +7,12 @@
     /_/                     /___/        
 ```
 
-## Chhhchhchch don't share this module too much 
+Chhhchhchch don't share this module too much 
+
+## Install
+
+```
+npm install speak.js
+```
 
 Use Accapell** private API. Leaked documents.
