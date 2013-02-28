@@ -1,0 +1,29 @@
+{
+    "name": "speak.js",
+    "version": "0.0.1",
+    "description": "Make your software speak naturally",
+    "main": "index.js",
+    "dependencies" : {
+	"request" : "*"
+    },
+    "directories": {
+	"example": "examples"
+    },
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/Alexandre-Strzelewicz/Speak.js"
+    },
+    "keywords": [
+	"speak",
+	"tts"
+    ],
+    "author": {
+	"name" : "Alexandre Strzelewicz",
+	"email" : "strzelewicz.alexandre@gmail.com"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md"
+}
